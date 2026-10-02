@@ -1,4 +1,4 @@
-# Culture & Tours — Projeção Campanha Google Ads
+# Culture & Tours: Projeção Campanha Google Ads
 
 A análise completa está no documento partilhado "Projeção Campanha Google Ads: Culture & Tours":
 https://claude.ai/code/artifact/6c1db702-9980-4ec3-ad01-8b95a9481710
